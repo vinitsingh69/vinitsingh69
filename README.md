@@ -8,7 +8,7 @@
 <br>
 
 :exploding_head: - Currently learning **ReactJs and NodeJS**
-- Looking for Full time Software Development Roles.
+:technologist: - Looking for Full time Software Development Roles.
 
 ## 🌐 Socials:
 [![Persional Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-ten-vert-47.vercel.app/)
