@@ -14,7 +14,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bussinessvinit@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-kumar-98b542226/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vinitsinghofficial/)
-[![Persional Portfolio](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)(https://portfolio-ten-vert-47.vercel.app/)
+[![Persional Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-ten-vert-47.vercel.app/)
 
 
 # 💻 Tech Stack:
