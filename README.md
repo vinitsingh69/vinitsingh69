@@ -7,7 +7,7 @@
 
 <br>
 
-## :exploding_head: - Currently learning **MERN**
+## :exploding_head: - Currently learning **MERN Stack**
  ## :technologist: - Looking for Full time **Software Development Roles**.
 
 ## 🌐 Socials:
