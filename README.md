@@ -7,7 +7,7 @@
 
 <br>
 
- :exploding_head: - Currently learning **ReactJs and NodeJS**
+## :exploding_head: - Currently learning **MERN**
  ## :technologist: - Looking for Full time **Software Development Roles**.
 
 ## 🌐 Socials:
