@@ -59,3 +59,5 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
+<a href="https://github.com/vinitsingh69/DSA_snippet/blob/main/git_snake.svg" rel="nofollow"><img src="https://github.com/vinitsingh69/DSA_snippet/blob/main/git_snake.svg" alt="Hackerearth" data-canonical-src="https://github.com/vinitsingh69/DSA_snippet/blob/main/git_snake.svg" style="max-width:100%;"></a>
+
